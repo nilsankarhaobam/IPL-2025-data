@@ -1,0 +1,75 @@
+Sl No.,Date,Team 1,Team 2,Win,Lost,Remarks
+1,2025-03-22,KKR,RCB,RCB,KKR,RCB won by 7 wickets (22 balls left)
+2,2025-03-23,SRH,RR,SRH,RR,SRH won by 44 runs
+3,2025-03-23,MI,CSK,CSK,MI,CSK won by 4 wickets (5 balls left)
+4,2025-03-24,LSG,DC,DC,LSG,DC won by 1 wicket (3 balls left)
+5,2025-03-25,PBKS,GT,PBKS,GT,PBKS won by 11 runs
+6,2025-03-26,RR,KKR,KKR,RR,KKR won by 8 wickets (15 balls left)
+7,2025-03-27,SRH,LSG,LSG,SRH,LSG won by 5 wickets (23 balls left)
+8,2025-03-28,RCB,CSK,RCB,CSK,RCB won by 50 runs
+9,2025-03-29,GT,MI,GT,MI,GT won by 36 runs
+10,2025-03-30,SRH,DC,DC,SRH,DC won by 7 wickets (24 balls left)
+11,2025-03-30,RR,CSK,RR,CSK,RR won by 6 runs
+12,2025-03-31,KKR,MI,MI,KKR,MI won by 8 wickets (43 balls left)
+13,2025-04-01,LSG,PBKS,PBKS,LSG,PBKS won by  8 wickets (22 balls left)
+14,2025-04-02,RCB,GT,GT,RCB,Gt won by 8 wickets (13 balls left)
+15,2025-04-03,KKR,SRH,KKR,SRH,KKR won by 80 runs
+16,2025-04-04,LSG,MI,LSG,MI,LSG won by 12 runs
+17,2025-04-05,DC,CSK,DC,CSK,DC won by 25 runs
+18,2025-04-05,RR,PBKS,RR,PBKS,RR won by 50 runs
+19,2025-04-06,SRH,GT,GT,SRH,GT won by 7 wickets (20 balls left)
+20,2025-04-07,RCB,MI,RCB,MI,RCB won by 12 runs
+21,2025-04-08,LSG,KKR,LSG,KKR,LSG won by 4 runs
+22,2025-04-08,PBKS,CSK,PBKS,CSK,PBKS won by 18 runs
+23,2025-04-09,GT,RR,GT,RR,GT won by 58 runs
+24,2025-04-10,RCB,DC,DC,RCB,DC won by 6 wickets (13 balls left)
+25,2025-04-11,CSK,KKR,KKR,CSK,KKR won by 8 wickets (59 balls left)
+26,2025-04-12,GT,LSG,LSG,GT,LSG won by  6 wickets (3 balls left)
+27,2025-04-12,PBKS,SRH,SRH,PBKS,SRH won by 8 wickets ( 9 balls left)
+28,2025-04-13,RR,RCB,RCB,RR,RCB won by  9 wickets (15 balls left)
+29,2025-04-13,MI,DC,MI,DC,MI won by  12 runs
+30,2025-04-14,LSG,CSK,CSK,LSG,CSK won by 5 wickets(3 balls left)
+31,2025-04-15,PBKS,KKR,PBKS,KKR,PBKS won by 16 runs
+32,2025-04-16,DC,RR,DC,RR,DC won the Super Over (2 balls left)
+33,2025-04-17,SRH,MI,MI,SRH,MI won by 4 wickets (11 balls left)
+34,2025-04-18,RCB,PBKS,PBKS,RCB,PBKS won by 5 wickets (11 balls left)
+35,2025-04-19,DC,GT,GT,DC,GT won by 7 wickets (4 balls left)
+36,2025-04-19,LSG,RR,LSG,RR,LSG won by 2 runs
+37,2025-04-20,PBKS,RCB,RCB,PBKS,RCB won by 7 wickets (7 balls left)
+38,2025-04-20,CSK,MI,MI,CSK,MI won by 9 wickets (26 balls left)
+39,2025-04-21,GT,KKR,GT,KKR,GT won by 39 runs
+40,2025-04-22,LSG,DC,DC,LSG,DC won by 8 wickets (13 balls left)
+41,2025-04-23,SRH,MI,MI,SRH,MI won by 7 wickets (26 balls left)
+42,2025-04-24,RCB,RR,RCB,RR,RCB won by 11 runs
+43,2025-04-25,CSK,SRH,SRH,CSK,SRH won by 5 wickets (8 balls left)
+44,2025-04-26,PBKS,KKR,-,-,No result
+45,2025-04-27,MI,LSG,MI,LSG,MI won by 54 runs
+46,2025-04-27,DC,RCB,RCB,DC,RCB won by 6 wickets (9 balls left)
+47,2025-04-28,GT,RR,RR,GT,RR won by 8 wickets (25 balls left)
+48,2025-04-29,KKR,DC,KKR,DC,KKR won by 14 runs
+49,2025-04-30,CSK,PBKS,PBKS,CSK,PBKS won by 4 wickets ( 2 balls left)
+50,2025-05-01,MI,RR,MI,RR,MI won by 100 runs
+51,2025-05-02,GT,SRH,GT,SRH,GT won by 38 runs
+52,2025-05-03,RCB,CSK,RCB,CSK,RCB won by 2 runs
+53,2025-05-04,KKR,RR,KKR,RR,KKR won by 1 run
+54,2025-05-04,PBKS,LSG,PBKS,LSG,PbKS won by 37 runs
+55,2025-05-05,DC,SRH,-,-,No result
+56,2025-05-06,MI,GT,GT,MI,GT won by 3 wickets (0 balls left) (DLS method)
+57,2025-05-07,KKR,CSK,CSK,KKR,CSK won by 2 wickets (2 balls left)
+58,2025-05-17,RCB,KKR,-,-,Match abandoned without a ball bowled
+59,2025-05-18,PBKS,RR,PBKS,RR,PBKS won by 10 runs
+60,2025-05-18,DC,GT,GT,DC,GT won by 10 wickets (6 balls left)
+61,2025-05-19,LSG,SRH,SRH,LSG,SRH won by 6 wickets (10 balls left)
+62,2025-05-20,CSK,RR,RR,CSK,RR won by 6 wickets (17 balls left)
+63,2025-05-21,MI,DC,MI,DC,MI won by 59 runs
+64,2025-05-22,LSG,GT,LSG,GT,LSG won by 33 runs
+65,2025-05-23,SRH,RCB,SRH,RCB,SRH won by 42 runs
+66,2025-05-24,PBKS,DC,DC,PBKS,DC won by 6 wickets (3 balls left)
+67,2025-05-25,CSK,GT,CSK,GT,CSK won by 83 runs
+68,2025-05-25,SRH,KKR,SRH,KKR,SRH won by 110 runs
+69,2025-05-26,MI,PBKS,PBKS,MI,PBKS won by 7 wickets (9 balls left)
+70,2025-05-27,LSG,RCB,RCB,LSG,RCB won by 6 wickets (8 balls left)
+71,2025-05-29,PBKS,RCB,RCB,PBKS,RCB won by 8 wickets (60 balls left) (Play-off)
+72,2025-05-30,MI,GT,MI,GT,MI won by 20 runs
+73,2025-06-01,MI,PBKS,PBKS,MI,PBKS won by 5 wickets (6 balls left)
+74,2025-06-03,RCB,PBKS,RCB,PBKS,RCB won by 6 runs (Final)
